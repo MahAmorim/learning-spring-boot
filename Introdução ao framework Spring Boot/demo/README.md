@@ -1,8 +1,6 @@
 # Spring Quickstart
 
-## O que você construirá
 Você construirá um clássico “Hello World!” endpoint ao qual qualquer navegador pode se conectar.
-
 Você pode até dizer seu nome e ele responderá de uma maneira mais amigável.
 
 ## O que você precisará
